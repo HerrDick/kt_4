@@ -158,9 +158,9 @@ class MyPage extends StatelessWidget {
                     Row(children: [
                       
                     Container(
-                      height: 1, // Высота вертикальной полосы
-                      width: 70, // Ширина вертикальной полосы
-                      color: Colors.grey, // Цвет вертикальной полосы
+                      height: 1, 
+                      width: 70, 
+                      color: Colors.grey, 
                     ),
                     const Center(
                       child: Text(
@@ -169,9 +169,9 @@ class MyPage extends StatelessWidget {
                       ),
                     ),
                     Container(
-                      height: 1, // Высота второй вертикальной полосы
-                      width: 70, // Ширина второй вертикальной полосы
-                      color: Colors.grey, // Цвет второй вертикальной полосы
+                      height: 1, 
+                      width: 70, 
+                      color: Colors.grey, 
                     ),
                     ],
                     ),
